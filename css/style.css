@@ -1,0 +1,86 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+.enTete{
+    background-color:#4f81bd;
+    
+    
+}
+   .nom{
+    color:#4f81bd;
+    font-weight:bold;
+
+    float:right;
+
+	
+      
+}
+.prenom{
+    float:right;
+	 
+
+    color:#666666;
+
+    
+}
+figure{
+    float:center;
+    
+}
+.description{
+    float:right;
+     position: absolute;
+	top: 11ex; 
+	right: 1ex;
+   
+   
+}
+#trait_dessus 
+{ 
+border-top: 1px solid #000; 
+width : 700px; 
+    color:#95b3d7;
+} 
+h2{
+    color:#666666;
+    
+   
+}
+.timelines{
+  float:left;
+     color:#666666;
+    margin:50px;
+    
+
+}
+.timelines2{
+     float:left;
+     color:#666666;
+    margin:50px;
+    margin-top:10px;
+}
+.titre{
+    
+
+    position: absolute;
+    left:20%;
+    font-weight:bold;
+    
+    font-size:14px;;
+    
+}
+.reseaux{
+   
+    float:left;
+  color:#666666;
+    position:absolute;
+     left:5%;
+    top:40ex;
+    
+    
+    
+}
+
+.skills {
+    font-weight: bold;
+}
